@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj": {}
+    "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit2\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj": {
+    "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit2\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj",
+        "projectUniqueName": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit2\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj",
         "projectName": "ConsoleAppHelloWorldTest",
-        "projectPath": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj",
+        "projectPath": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit2\\ConsoleAppHelloWorldTest\\ConsoleAppHelloWorldTest.csproj",
         "packagesPath": "C:\\Users\\Jf Martins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit\\ConsoleAppHelloWorldTest\\obj\\",
+        "outputPath": "C:\\Users\\Jf Martins\\source\\repos\\TestWebHookGit2\\ConsoleAppHelloWorldTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
