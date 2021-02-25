@@ -1,0 +1,13 @@
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.exe
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.deps.json
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.runtimeconfig.json
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.runtimeconfig.dev.json
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.dll
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\bin\Debug\netcoreapp3.1\ConsoleAppHelloWorld.pdb
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.csprojAssemblyReference.cache
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.AssemblyInfo.cs
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.dll
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.pdb
+C:\Users\Jf Martins\source\repos\TestWebHookGit2\ConsoleAppHelloWorld\obj\Debug\netcoreapp3.1\ConsoleAppHelloWorld.genruntimeconfig.cache
